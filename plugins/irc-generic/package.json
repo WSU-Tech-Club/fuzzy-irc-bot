@@ -1,0 +1,11 @@
+{
+	"name": "irc-generic",
+	"description": "General plugins and functionality of the bot",
+	"version": "0.0.1",
+	"author": "Travis Person <travis.person@gmail.com>",
+	"contributors": [
+	],
+	"keywords": ["irc", "bot"],
+	"dependencies": {
+		"colors": "0.6.x",
+	}
