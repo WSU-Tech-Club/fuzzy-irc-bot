@@ -1,0 +1,10 @@
+{
+  "irc-server": "irc.freenode.net",
+  "port": 6667,
+  "nick": "WSUTech",
+  "password": "wsubobo",
+  "channels": ["#wsutech"],
+  "showErrors": "true",
+  "userName": "WSUTech",
+  "realName": "WSUTech Bot"
+}

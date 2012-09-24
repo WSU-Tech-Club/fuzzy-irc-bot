@@ -1,0 +1,16 @@
+{
+	"name": "tom",
+	"description": "A IRC bot built on hook.io with plugins",
+	"version": "0.0.1",
+	"author": "Travis Person <travis.person@gmail.com>",
+	"contributors": [
+	],
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/..."
+	},
+	"keywords": ["irc", "bot"],
+	"dependencies": {
+		"hook.io": "0.8.9",
+		"hook.io-rc": "0.6.0"
+	}

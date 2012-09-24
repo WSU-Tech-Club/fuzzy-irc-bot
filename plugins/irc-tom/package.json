@@ -1,0 +1,15 @@
+{
+	"name": "irc-tom",
+	"description": "General plugins and functionality of the bot",
+	"version": "0.0.1",
+	"author": "Travis Person <travis.person@gmail.com>",
+	"contributors": [
+	],
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/..."
+	},
+	"keywords": ["irc", "bot"],
+	"dependencies": {
+		"colors": "0.6.x",
+	}

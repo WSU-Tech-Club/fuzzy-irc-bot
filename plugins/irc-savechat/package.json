@@ -1,0 +1,16 @@
+{
+	"name": "irc-savechat",
+	"description": "Saves all messages that come through the bot to couchdb",
+	"version": "0.0.1",
+	"author": "Travis Person <travis.person@gmail.com>",
+	"contributors": [
+	],
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/..."
+	},
+	"keywords": ["irc", "bot"],
+	"dependencies": {
+		"colors": "0.6.x",
+		"cradle": "0.6.3"
+	}
