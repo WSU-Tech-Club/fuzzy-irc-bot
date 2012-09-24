@@ -12,5 +12,5 @@
 	"keywords": ["irc", "bot"],
 	"dependencies": {
 		"hook.io": "0.8.9",
-		"hook.io-rc": "0.6.0"
+		"hook.io-irc": "0.6.0"
 	}
